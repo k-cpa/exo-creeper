@@ -6,6 +6,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 40em;
+    width: 100em;
+    margin-left: 5em;
+    border: 1px solid;
     gap: 25%;
     z-index: 1;
 }
